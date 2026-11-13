@@ -1,5 +1,3 @@
-# case-aki-sports
-Case de desenvolvimento de plataforma digital para o ecossistema esportivo.
 
 # AKI Sports
 
